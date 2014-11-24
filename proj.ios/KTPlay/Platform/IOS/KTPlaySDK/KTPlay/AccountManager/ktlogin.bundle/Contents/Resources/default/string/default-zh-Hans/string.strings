@@ -1,0 +1,42 @@
+
+
+/* 
+    This text file was create automatic by localString.py 
+        create time :2014-09-03(Wednesday) 12:46:00
+        create by :dengjian
+*/
+
+
+
+"s_bind_email_label" = "输入你的注册电子邮件地址,我们将发送一封邮件，帮助你重置登录密码。";
+"s_close_btn" = "关闭";
+"s_complete_btn" = "完成";
+"s_email_null" = "邮箱地址不能为空。";
+"s_email_set_success" = "请求已发送请检查电子邮件。";
+"s_getpwd_confirm_btn" = "确定";
+"s_getpwd_textfield_email" = "电子邮件";
+"s_kt_addfriendsFromGame_section_title" = "邀请当前游戏玩家";
+"s_kt_auth_fail" = "授权失败";
+"s_kt_check_email" = "请求已发送请检查电子邮件";
+"s_kt_input_valid_email" = "电子邮件地址格式错误";
+"s_kt_invite_friends_cell_beliked_num" = "获得称赞 %@";
+"s_kt_invitefriendsFromSNS_section_title" = "邀请SNS好友";
+"s_kt_ligin_failure" = "登录失败";
+"s_kt_login_success" = "登录成功";
+"s_kt_login_text_error" = "用户名和密码不能为空";
+"s_kt_pwd_lenth_err" = "密码长度应在6-18位";
+"s_kt_pwd_login_password_fromat" = "密码由大小字母和数字组成";
+"s_kt_register_nickname_pwd_null" = "用户名或密码不能为空";
+"s_kt_youmeng_nickname" = "输入Email或用户名，用户名使用中文，大小写字母和数字命名";
+"s_kt_youmeng_username_length_limit" = "用户名长度为2-30个字符";
+"s_ktplay_introduce" = "KTplay为玩家带来了不一样的游戏社交体验，玩家可以通过在不同的游戏中登录KTplay帐户在游戏中体验更多社交功能，如分享游戏体验，向其他用户求助，上传自己的积分等。同时，参与游戏中的活动还可以获得丰厚的游戏奖励。";
+"s_login_btn" = "登录";
+"s_login_textfield_nickname" = "电子邮件/用户名";
+"s_login_textfield_password" = "密码";
+"s_newaccount_label" = "创建新账户";
+"s_register_textfield_nickname" = "创建用户名";
+"s_register_textfield_password" = "设置登录密码";
+"s_service_policy_label" = "<font size=%i color='#b4b4b4'>创建新账户即表示你同意</font><a href='Terms4Service'><font size=%i color='#b4b4b4'>服务条款和隐私政策</font></a>";
+"s_setnickname_textfield" = "设置用户名";
+"s_username_format" = "游戏用户名只能包含中文、英文、数字，请重新输入。";
+"s_username_set" = "请设置游戏用户名。";

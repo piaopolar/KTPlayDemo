@@ -4,6 +4,8 @@
 #import "AppDelegate.h"
 #import "RootViewController.h"
 
+#import "KTPlay.h"
+
 @implementation AppController
 
 #pragma mark -
@@ -15,6 +17,7 @@ static AppDelegate s_sharedApplication;
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
     // Override point for customization after application launch.
+	[KTPlay startWithAppKey:@"Jm1e3y" appSecret:@"9efafce4c7eb0a6fff4d95ab32d5d5aa225c2991"];
 
     // Add the view controller's view to the window and display.
     window = [[UIWindow alloc] initWithFrame: [[UIScreen mainScreen] bounds]];

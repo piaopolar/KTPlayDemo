@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>container_bg_default_width</key>
+	<integer>260</integer>
+	<key>container_bg_nogamelogo_height</key>
+	<integer>215</integer>
+	<key>container_view_corner_radius</key>
+	<integer>0</integer>
+	<key>content_left_margin</key>
+	<integer>12</integer>
+	<key>content_top_margin</key>
+	<integer>10</integer>
+	<key>content_right_margin</key>
+	<integer>12</integer>
+	<key>button_intextfield_right_margin</key>
+	<integer>8</integer>
+	<key>textfield_between_vertical</key>
+	<integer>5</integer>
+	<key>btn_ontextfield_right_margin</key>
+	<integer>8</integer>
+	<key>textfield_btn_between_vertical</key>
+	<integer>8</integer>
+	<key>inputcontent_intextfield_left_margin</key>
+	<integer>5</integer>
+	<key>ktlogo_btn_between_vertical</key>
+	<integer>15</integer>
+	<key>registerbtn_arrow_between_ horizontal</key>
+	<integer>6</integer>
+	<key>ktlogo_line_between_vertical</key>
+	<integer>15</integer>
+	<key>seprate_line_height</key>
+	<integer>1</integer>
+	<key>seprate_line_width</key>
+	<integer>236</integer>
+	<key>snslogo_line_vertical</key>
+	<integer>10</integer>
+	<key>ktservice_regbtn_between_vertical</key>
+	<integer>15</integer>
+	<key>ktlogo_ktservice_between_vertical</key>
+	<integer>15</integer>
+	<key>infotextview_width</key>
+	<integer>240</integer>
+	<key>infotextview_height</key>
+	<integer>155</integer>
+	<key>infotextview_corner_radius</key>
+	<integer>3</integer>
+	<key>bind_email_line_height</key>
+	<integer>31</integer>
+	<key>bind_email_intextfield_between_vertical</key>
+	<integer>5</integer>
+</dict>
+</plist>

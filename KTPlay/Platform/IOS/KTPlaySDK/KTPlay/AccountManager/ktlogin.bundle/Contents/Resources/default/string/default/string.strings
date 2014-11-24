@@ -1,0 +1,42 @@
+
+
+/* 
+    This text file was create automatic by localString.py 
+        create time :2014-09-03(Wednesday) 12:46:00
+        create by :dengjian
+*/
+
+
+
+"s_bind_email_label" = "Please input your email address. We will send an email to the address you registered with so you can reset your password.";
+"s_close_btn" = "Close";
+"s_complete_btn" = "Done";
+"s_email_null" = "Email Address cannot be left blank";
+"s_email_set_success" = "Please check inbox for your password reset email";
+"s_getpwd_confirm_btn" = "OK";
+"s_getpwd_textfield_email" = "Email Address";
+"s_kt_addfriendsFromGame_section_title" = "Invite friends from game";
+"s_kt_auth_fail" = "Authorization failed";
+"s_kt_check_email" = "Please check inbox for your password reset email";
+"s_kt_input_valid_email" = "Your email format is incorrect";
+"s_kt_invite_friends_cell_beliked_num" = "Liked %@";
+"s_kt_invitefriendsFromSNS_section_title" = "Invite Friends from SNS";
+"s_kt_ligin_failure" = "Login Failed";
+"s_kt_login_success" = "Succesfully logged in";
+"s_kt_login_text_error" = "Login name and password cannot be left blank";
+"s_kt_pwd_lenth_err" = "The password is 6-18 bit English or digital";
+"s_kt_pwd_login_password_fromat" = "The password can have English or digital";
+"s_kt_register_nickname_pwd_null" = "Login name and password cannot be left blank";
+"s_kt_youmeng_nickname" = "Enter email or username, username can have Chinese characters, upper and lowercase letters, and numbers";
+"s_kt_youmeng_username_length_limit" = "Username must be 2-30 characters in length";
+"s_ktplay_introduce" = "KTplay is a cross-games social platform. allowing you to share your gaming experiencces, compete and social with other players. Get started today!";
+"s_login_btn" = "Login";
+"s_login_textfield_nickname" = "Email/Username";
+"s_login_textfield_password" = "Password";
+"s_newaccount_label" = "Sign up";
+"s_register_textfield_nickname" = "Create a username";
+"s_register_textfield_password" = "Password";
+"s_service_policy_label" = "<font size=%i color='#b4b4b4'>You agree with Ktplay's </font><a href='Terms4Service'><font size=%i color='#b4b4b4'>terms and conditions</font></a>";
+"s_setnickname_textfield" = "Set your Username";
+"s_username_format" = "Username can consist of Chinese characters, lower and uppercase letters, and numbers";
+"s_username_set" = "Set your Username";

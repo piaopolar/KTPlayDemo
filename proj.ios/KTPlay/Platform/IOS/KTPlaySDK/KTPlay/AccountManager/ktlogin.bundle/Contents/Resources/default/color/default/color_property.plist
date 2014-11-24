@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>container_bg_color</key>
+	<string>#b2000000</string>
+	<key>textfield_placehold_color</key>
+	<string>#ff101010</string>
+	<key>textfield_input_color</key>
+	<string>#ff000000</string>
+	<key>login_btntitle_color</key>
+	<string>#ff000000</string>
+	<key>create_newaccount_color</key>
+	<string>#ffffffff</string>
+	<key>service_color_text_color</key>
+	<string>#ffb4b4b4</string>
+	<key>seprate_line_bg_color</key>
+	<string>#ff666666</string>
+	<key>textview_bg_color</key>
+	<string>#ff343434</string>
+</dict>
+</plist>
