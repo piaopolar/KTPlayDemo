@@ -21,11 +21,29 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+  		<!-- KTPlay SDK配置开始 -->
+        <activity
+            android:name="com.ktplay.activity.GetPhotoActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:screenOrientation="user"
+            android:windowSoftInputMode="adjustPan|adjustUnspecified" >
+        </activity>
+        
+        <meta-data
+            android:name="KTPLAY_CHANNELID"
+            android:value="GP"
+            />
+         <!-- KTPlay SDK配置结束 -->
     </application>
     <supports-screens android:largeScreens="true"
                       android:smallScreens="true"
                       android:anyDensity="true"
                       android:normalScreens="true"/>
                          
-    <uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 </manifest> 

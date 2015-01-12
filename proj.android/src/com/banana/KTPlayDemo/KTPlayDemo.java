@@ -25,6 +25,9 @@ package com.banana.KTPlayDemo;
 
 import org.cocos2dx.lib.Cocos2dxActivity;
 import org.cocos2dx.lib.Cocos2dxGLSurfaceView;
+import org.cocos2dx.lib.Cocos2dxHelper;
+
+import com.ktplay.open.KTPlay;
 
 import android.os.Bundle;
 
@@ -32,8 +35,24 @@ public class KTPlayDemo extends Cocos2dxActivity{
 	
     protected void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);	
+
+		KTPlay.startWithAppKey(this, "2u4bEl", "e6ee3a3d0fd4d5539b7d48d17470be45c48f57ac");
+	}
+    
+	@Override
+	protected void onResume() {
+		super.onResume();
+
+		KTPlay.onResume(this);
 	}
 
+	@Override
+	protected void onPause() {
+		super.onPause();
+
+		KTPlay.onPause(this);
+	}
+    
     public Cocos2dxGLSurfaceView onCreateView() {
     	Cocos2dxGLSurfaceView glSurfaceView = new Cocos2dxGLSurfaceView(this);
     	// KTPlayDemo should create stencil buffer
